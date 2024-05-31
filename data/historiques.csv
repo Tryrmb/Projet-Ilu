@@ -1,0 +1,13 @@
+id,adversaire,date,resultat,type_victoire,coups_reussis,coups_manques,types_coups,zones_touchees
+John Berger,Maxime Thomas,2023-05-20,victoire,KO,30,10,jab,uppercut,hook,tête,corps
+John Berger,Theo Victor,2023-06-15,defaite,points,25,15,jab,hook,tête,corps
+John Berger,Arthur Gomez,2023-07-10,nul,points,20,20,jab,uppercut,tête,corps
+Maxime Thomas,Brice Morvant,2023-05-21,defaite,points,25,15,jab,hook,tête,corps
+Maxime Thomas,Medhi Bekhal,2023-06-10,victoire,TKO,28,12,uppercut,hook,tête,corps
+Maxime Thomas,Viktor Mbemba,2023-07-12,nul,points,22,18,jab,hook,tête,corps
+Brice Morvant,Theo Victor,2023-05-22,victoire,KO,35,5,jab,uppercut,hook,tête,corps
+Brice Morvant,Jonas Michel,2023-06-18,defaite,points,15,25,jab,uppercut,tête,corps
+Brice Morvant,Jerry Allen,2023-08-05,nul,points,20,20,jab,hook,tête,corps
+Theo Victor,Mamadou Diallo,2023-05-23,nul,points,20,20,jab,hook,tête,corps
+Theo Victor,Ali Pasquier,2023-06-20,victoire,KO,32,8,uppercut,hook,tête,corps
+Theo Victor,Jean Bosco,2023-08-15,defaite,points,18,22,jab,hook,tête,cor
